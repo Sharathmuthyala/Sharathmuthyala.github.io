@@ -1,4 +1,4 @@
-# github.io
+# Sharath Reddy's Homepage
 
 # gives a big header
 ## makes a smaller one
