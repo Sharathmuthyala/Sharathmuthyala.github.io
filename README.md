@@ -1,4 +1,4 @@
-# Sharath Reddy's Homepage
+# Sharath Reddy Muthyala
 
 ## This is my Webpage
 ### created on 08/23
