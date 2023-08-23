@@ -31,5 +31,4 @@ for i in range(5):
 For Tables:
 | Syntax | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Header | Title | Paragraph | Text |
