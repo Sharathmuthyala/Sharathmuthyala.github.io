@@ -23,13 +23,7 @@ where image.jpg is a file in the repository with the image in it.
 
 For codes:
 
-``` python```
-```
-def fib(n):
-  if n==0:
-    return 0
-  elif n==1:
-    return 1
-  else:
-    return fib(n-2)+fib(n-1)
+``` python
+for i in range(5):
+  print(i,end=" ")
 ```
