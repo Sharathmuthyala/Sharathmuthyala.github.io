@@ -6,6 +6,8 @@
 **makes bold face**
 *makes italic*
 
+I need to highlight these ==very important words==.
+
 to make a link
 [click here for the github page](https://github.com/Sharathmuthyala)
 
