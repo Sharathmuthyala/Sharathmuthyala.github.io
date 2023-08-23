@@ -27,7 +27,4 @@ for i in range(5):
   print(i,end=" ")
 ```
 
-For Tables:
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title | Paragraph | Text |
+****
