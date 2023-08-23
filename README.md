@@ -6,3 +6,5 @@
 **makes bold face**
 *makes italic*
 
+to make a link
+[click here for the github page] (https://mail.google.com/mail/u/0/#inbox)
