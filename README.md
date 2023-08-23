@@ -1,9 +1,8 @@
 # Sharath Reddy's Homepage
 
-# gives a big header
-## makes a smaller one
-### makes a even smaller one
-**makes bold face**
+## This is my Webpage
+### created on 08/23
+****
 *makes italic*
 
 I need to highlight these ==very important words==.
