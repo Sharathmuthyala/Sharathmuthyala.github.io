@@ -7,4 +7,12 @@
 *makes italic*
 
 to make a link
-[click here for the github page] (https://mail.google.com/mail/u/0/#inbox)
+[click here for the github page](https://github.com/Sharathmuthyala)
+
+for images:
+
+![picture of a cat](link to the picture of a cat)
+alternatively
+
+![picture](image.png)
+where image.png is a file in the repository with the image in it.
