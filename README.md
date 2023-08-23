@@ -23,7 +23,8 @@ where image.jpg is a file in the repository with the image in it.
 
 For codes:
 
-``` python
+``` python```
+```
 def fib(n):
   if n==0:
     return 0
