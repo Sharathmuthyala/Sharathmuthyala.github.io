@@ -14,5 +14,5 @@ for images:
 ![picture of a cat](link to the picture of a cat)
 alternatively
 
-![picture](image.png)
-where image.png is a file in the repository with the image in it.
+![picture](image.jpg)
+where image.jpg is a file in the repository with the image in it.
